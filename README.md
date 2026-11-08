@@ -43,7 +43,11 @@
 </p>
 
 <!-- LATEST-REPOS:START -->
-<p align="center"><sub>New projects are on the way. This list updates itself every day.</sub></p>
+<table>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/JuanMora1945/aventureros-ecoturismo"><b>aventureros-ecoturismo</b></a><br/><sub>Landing page for an eco-travel agency in Cali, Colombia</sub><br/><sub>Updated Nov 2026 · HTML · <a href="https://aventureros-ecoturismo.netlify.app">live demo</a></sub></td>
+  </tr>
+</table>
 <!-- LATEST-REPOS:END -->
 
 <p align="center">
