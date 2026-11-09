@@ -45,6 +45,7 @@
 <!-- LATEST-REPOS:START -->
 <table>
   <tr>
+    <td width="50%" valign="top"><a href="https://github.com/JuanMora1945/jhankbass-portfolio"><b>jhankbass-portfolio</b></a><br/><sub>Portfolio landing for bassist Jhankarlo Bermúdez (Jhank Bass). Live: https://jhankbass.netlify.app</sub><br/><sub>Updated Nov 2026 · HTML · <a href="https://jhankbass.netlify.app">live demo</a></sub></td>
     <td width="50%" valign="top"><a href="https://github.com/JuanMora1945/aventureros-ecoturismo"><b>aventureros-ecoturismo</b></a><br/><sub>Landing page for an eco-travel agency in Cali, Colombia</sub><br/><sub>Updated Nov 2026 · HTML · <a href="https://aventureros-ecoturismo.netlify.app">live demo</a></sub></td>
   </tr>
 </table>
